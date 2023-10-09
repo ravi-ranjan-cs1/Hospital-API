@@ -5,13 +5,15 @@ Installation
 
 To run this application on your local machine, please follow these steps:
 
-Clone this repository using the following command: https://github.com/ayush2342/Hospital-API.git
+Clone this repository using the following command: https://github.com/ravi-ranjan-cs1/Hospital-API
 
 Install the required dependencies using the following command: $ npm install
 
 Start the application using the following command: $ npm run start
 
 Open the application in your postman app by visiting the following URL: http://localhost:8000
+
+This is host link: https://hospital-api-axja.onrender.com
 
 Features:
 
